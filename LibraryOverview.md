@@ -71,7 +71,11 @@ Creating and Styling buttons:
 
 Sample output when user wins:
 
+![alt text](./images/UserWins.png)
+
 Sample output when user loses:
+
+![alt text](./images/CompWins.png)
 
 # When was it created?
 The base version, PyQt was released in 1998 whereas the latest version PyQt5 came into existence from 2016.
