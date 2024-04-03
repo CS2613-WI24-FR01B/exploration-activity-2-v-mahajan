@@ -77,6 +77,13 @@ This package was selected because it offers enormous functionality to build attr
 
 # How did learning the package/library influence your learning of the language?
 
+Learning this package unveiled yet another super useful feature of python in building interactive user interfaces. Keeping in mind how important interfaces are to the applications, this package cannot go unnoticed.
 
+# How was your overall experience with the package/library?
+ 1. When would you recommend this package/library to someone?
+ This library is recommend to anyone working to build interfaces.
+
+ 2. Would you continue using this package/library? Why or Why not?
+ This package is definitely going to be on my to-use list since I frequently with building interfaces and front end stuff.
 
 
