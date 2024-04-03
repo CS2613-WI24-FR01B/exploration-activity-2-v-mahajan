@@ -94,4 +94,7 @@ Learning this package unveiled yet another super useful feature of python in bui
  2. Would you continue using this package/library? Why or Why not?
  This package is definitely going to be on my to-use list since I frequently with building interfaces and front end stuff.
 
+ # References
+ [1] Sample PyQt tutorial [link...](https://www.pythonguis.com/pyqt5-tutorial/)
 
+ [2] Event Handlers in PyQt5 [link...](https://doc.qt.io/qtforpython-6/overviews/eventsandfilters.html)
