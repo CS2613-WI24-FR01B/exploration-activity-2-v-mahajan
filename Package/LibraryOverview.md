@@ -49,6 +49,7 @@ Creating and Styling header label:
         color.setColor(Qt.darkCyan)
         head.setGraphicsEffect(color)
 
+![alt original image](./images/Game_header.png)
 
 Creating and Styling buttons:
 
@@ -64,6 +65,9 @@ Creating and Styling buttons:
         self.scissor.setGeometry(210, 270, 80, 35)
         self.scissor.setStyleSheet(
             "background-color: #e74c3c; color: white; border: none; padding: 5px; font-size: 12px;")
+
+
+[alt text](./images/Game_buttons.png)
 
 Sample output when user wins:
 
