@@ -12,3 +12,17 @@ Prerequisites:
 3. Navigate to the above cloned directory in terminal/cmd.
 4. Install package PyQt5 using command: `pip3 install PyQt5`
 5. Run the code using command: `python3 game.py`
+
+# What purpose does your program serve?
+The program shows how easy it is to make attractive user interfaces using this python's package.
+
+# What would be some sample input/output?
+Overview of the program: 
+The program demonstrates a simple Rock-Paper-Scissors game.
+
+Sample input:
+User selects one of the three entities: Rock , Paper, Scissor
+
+Sample output:
+Computer is also made to randomly select one of the above three entities. If the user's selected entity matches computer's selected entity, User wins and a message is displayed on the window. 
+On the other hand, If both entities do not match, user loses and a similar message is displayed.
