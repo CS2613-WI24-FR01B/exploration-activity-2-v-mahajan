@@ -65,6 +65,18 @@ Creating and Styling buttons:
         self.scissor.setStyleSheet(
             "background-color: #e74c3c; color: white; border: none; padding: 5px; font-size: 12px;")
 
+Sample output when user wins:
+
+Sample output when user loses:
+
+# When was it created?
+The base version, PyQt was released in 1998 whereas the latest version PyQt5 came into existence from 2016.
+
+# Why did you select this package?
+This package was selected because it offers enormous functionality to build attractive user interfaces and interactive desktop applications.
+
+# How did learning the package/library influence your learning of the language?
+
 
 
 
