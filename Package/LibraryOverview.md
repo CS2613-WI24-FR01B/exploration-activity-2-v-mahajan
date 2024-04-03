@@ -67,7 +67,7 @@ Creating and Styling buttons:
             "background-color: #e74c3c; color: white; border: none; padding: 5px; font-size: 12px;")
 
 
-[alt text](./images/Game_buttons.png)
+[alt text](../images/Game_buttons.png)
 
 Sample output when user wins:
 
